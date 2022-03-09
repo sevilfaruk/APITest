@@ -27,3 +27,6 @@
   - Open a terminal where you keep the **db.json** file
   - Write **"json-server --watch db.json"**
   - Check the **http://localhost:3000/posts/** via any browser or Postman
+  - Go to **APITest/src/test/java/ApiTest.java** 
+  - Run the **"ApiTest.java"** via JUnit
+  - You can find **".features"** files under **APITest/src/features/**
