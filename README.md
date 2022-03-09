@@ -1,6 +1,6 @@
 ## How to RUN
 
-  - Assuming that NodeJS already installed
+  - Assuming that NodeJS already installed, if not please install 
   - Open a terminal, write "npm install -g json-server" 
   - Create a file which name is db.json
   - Put the following JSON inside the db.json 
